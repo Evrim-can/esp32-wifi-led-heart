@@ -31,4 +31,4 @@ Bu proje, ESP32 mikrodenetleyicisi kullanılarak tasarlanmış, taşınabilir ve
 1. Repodaki `.ino` dosyasını Arduino IDE kullanarak ESP32'ye yükleyin. (Gerekli kütüphaneler: `WiFi.h`, `WebServer.h`, `DNSServer.h`)
 2. Devreye güç verin.
 3. Telefonunuzun Wi-Fi listesinden cihazın yaydığı ağa bağlanın.
-4. Ekrana otomatik düşen arayüzden animasyonları kontrol edin. (Sayfa otomatik açılmazsa tarayıcıdan `192.168.4.1` adresine gidin).<img width="800" height="450" alt="ezgif-5c6f59d9c00da0dd" src="https://github.com/user-attachments/assets/206a0adb-806d-4ae9-9179-40f254f01ff4" />
+4. Ekrana otomatik düşen arayüzden animasyonları kontrol edin. (Sayfa otomatik açılmazsa tarayıcıdan `192.168.4.1` adresine gidin).
