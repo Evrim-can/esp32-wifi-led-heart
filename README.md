@@ -32,3 +32,8 @@ Bu proje, ESP32 mikrodenetleyicisi kullanılarak tasarlanmış, taşınabilir ve
 2. Devreye güç verin.
 3. Telefonunuzun Wi-Fi listesinden cihazın yaydığı ağa bağlanın.
 4. Ekrana otomatik düşen arayüzden animasyonları kontrol edin. (Sayfa otomatik açılmazsa tarayıcıdan `192.168.4.1` adresine gidin).
+## 🤝 Geliştirici Notu & Teşekkür (Developer Note & Credits)
+
+Bu projenin donanım tasarımı, fiziksel montajı, güç yönetimi (MT3608/TP4056 entegrasyonu) ve ortak şase probleminin çözümü tamamen tarafımca yapılmıştır. 
+
+C programlama ve gömülü sistem yazılımları üzerindeki öğrenme sürecim aktif olarak devam etmektedir. Bu nedenle, projenin ilk versiyonundaki Wi-Fi Access Point kurulumu, Captive Portal yönlendirmesi ve asenkron web sunucusu kodlarının iskeleti **Google Gemini (AI)** rehberliği ve asistanlığı ile oluşturulmuştur. Yazılım alanında yetkinliğimi artırdıkça, ilerleyen süreçte bu depo (repository) tamamen kendi yazacağım C tabanlı algoritmalarla güncellenecektir.
